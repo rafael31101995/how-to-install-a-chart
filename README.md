@@ -60,9 +60,6 @@
         wrote ./yamls/nifi/templates/statefulset.yaml
 
 
-        vim ~/.bashrc
-## O que é tdd para python
-
 ## __Quantas replicas o nifi tera?__
 ## __O que é init container?__
 ## __Quantos init container ele faz dentro da imagem?__
